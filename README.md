@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile! 
   
 ### 📫 How to reach me:
-  -  linkedin.com/in/jerson-martinez-
+  -  [linkedin.com/in/jerson-martinez-](https://www.linkedin.com/in/jerson-martinez-/)
   -  jerson06221922@gmail.com
 
 ### 🛠 Languages and Tools:
