@@ -1,7 +1,11 @@
 # Hello there, my name is Jerson Martinez 👋 
 ## Welcome to my GitHub profile! 
+- 🚀 I’m deeply passionate about learning new things and all things software/tech. I'm always curious and eager to dive into new projects and challenges.
+- 📫 How to reach me:
+-- [![LinkedIn - jerson-martinez-](https://camo.githubusercontent.com/7a8fb3e9ab99a2d5c44d60095a5e460c2936313c638da6c9b1743acbaf1eabdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4a6f7264696e4443372d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/linkedin_username/)
+-- jerson06221922@gmail.com
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 - Front-end: 
 [![React Badge](https://camo.githubusercontent.com/c7a25cc5d9e443dd52290d5a83bb37d31e590e4ecda617e8e045ea3c7d98473d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3230323332413f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)](https://reactjs.org/)
 [![JavaScript Badge](https://camo.githubusercontent.com/e10595846cd7eba7f2604ef79547c8842681438201484ef4cb76fe974ead8d44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://www.javascript.com/)
