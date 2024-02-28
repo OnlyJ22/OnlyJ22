@@ -1,7 +1,5 @@
 # Hello there, my name is Jerson Martinez 👋 
 ## Welcome to my GitHub profile! 
-
-### 🚀 I’m deeply passionate about learning new things and all things software/tech. I'm always curious and eager to dive into new projects and challenges.
   
 ### 📫 How to reach me:
   -  linkedin.com/in/jerson-martinez-
