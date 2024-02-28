@@ -3,8 +3,8 @@
 - 🚀 I’m deeply passionate about learning new things and all things software/tech. I'm always curious and eager to dive into new projects and challenges.
   
 - 📫 How to reach me:
-+ linkedin.com/in/jerson-martinez-
-+ jerson06221922@gmail.com
+  - linkedin.com/in/jerson-martinez-
+  -  jerson06221922@gmail.com
 
 ### 🛠 Languages and Tools:
 - Front-end: 
