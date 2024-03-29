@@ -6,6 +6,24 @@
   [![Email Badge](https://img.shields.io/badge/-jerson06221922%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jerson06221922@gmail.com)
 
 ### 🛠 Languages and Tools:
+- FRONT-END:
+[![React Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)](https://jquery.com/)
+[![REST.API Badge](https://img.shields.io/badge/-REST.API-2C3A42?style=flat-square&logo=API&logoColor=white)](https://restfulapi.net/)
+[![Axios Badge](https://img.shields.io/badge/-Axios-61DAFB?style=flat-square&logo=React&logoColor=white)](https://axios-http.com/)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Formik Badge](https://img.shields.io/badge/-Formik-61DAFB?style=flat-square&logo=React&logoColor=white)](https://formik.org/)
+[![Yup Badge](https://img.shields.io/badge/-Yup-61DAFB?style=flat-square&logo=React&logoColor=white)](https://github.com/jquense/yup)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)](https://angular.io/)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)](https://yarnpkg.com/)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)](https://www.npmjs.com/)
+
+
+
 - Front-end: 
 [![React Badge](https://camo.githubusercontent.com/c7a25cc5d9e443dd52290d5a83bb37d31e590e4ecda617e8e045ea3c7d98473d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3230323332413f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)](https://reactjs.org/)
 [![JavaScript Badge](https://camo.githubusercontent.com/e10595846cd7eba7f2604ef79547c8842681438201484ef4cb76fe974ead8d44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://www.javascript.com/)
