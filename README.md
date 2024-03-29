@@ -2,8 +2,9 @@
 ## Welcome to my GitHub profile! 
 
 ### 📫 How to reach me:
-- [![LinkedIn Badge](https://img.shields.io/badge/-Jerson_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerson-martinez-/)](https://www.linkedin.com/in/jerson-martinez-/)
-  [![Email Badge](https://img.shields.io/badge/-jerson06221922%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jerson06221922@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jerson_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerson-martinez-/)](https://www.linkedin.com/in/jerson-martinez-/)
+[![Email Badge](https://img.shields.io/badge/-jerson06221922%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jerson06221922@gmail.com)
+[![Phone Badge](https://img.shields.io/badge/-9494594532-007ACC?style=flat-square)](tel:+19494594532)
 
 ## 🛠 Languages and Tools:
 ### FRONT-END:
@@ -52,5 +53,5 @@
 [![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Chrome DevTools Badge](https://img.shields.io/badge/-Chrome%20DevTools-333333?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-F24E1E?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/)
 
