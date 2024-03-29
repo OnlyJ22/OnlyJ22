@@ -6,7 +6,7 @@
   [![Email Badge](https://img.shields.io/badge/-jerson06221922%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jerson06221922@gmail.com)
 
 ### 🛠 Languages and Tools:
-- FRONT-END:
+## FRONT-END:
 [![React Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://www.javascript.com/)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -22,7 +22,7 @@
 [![Yarn Badge](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)](https://yarnpkg.com/)
 [![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)](https://www.npmjs.com/)
 
-- MIDDLE-TIER:
+## MIDDLE-TIER:
 [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/)
 [![ADO.NET Badge](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
@@ -30,7 +30,7 @@
 [![Entity Framework Badge](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
 [![SqlServer Connections Badge](https://img.shields.io/badge/-SqlServer%20Connections-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)](#)
 
-- BACK-END:
+## BACK-END:
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![MS-SQL Badge](https://img.shields.io/badge/-MS--SQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
@@ -40,7 +40,7 @@
 [![Google Sheets Badge](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=Google%20Sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Excel Badge](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-- DEVELOPMENT:
+## DEVELOPMENT:
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
 [![GitHub Bash Badge](https://img.shields.io/badge/-GitHub_Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)](https://gnu-bash)
