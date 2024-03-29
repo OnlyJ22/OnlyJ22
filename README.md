@@ -4,7 +4,6 @@
 ### 📫 How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/-Jerson_Martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerson-martinez-/)](https://www.linkedin.com/in/jerson-martinez-/)
 [![Email Badge](https://img.shields.io/badge/-jerson06221922%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jerson06221922@gmail.com)
-[![Phone Badge](https://img.shields.io/badge/-9494594532-007ACC?style=flat-square)](tel:+19494594532)
 
 ## 🛠 Languages and Tools:
 ### FRONT-END:
