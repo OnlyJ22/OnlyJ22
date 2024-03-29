@@ -28,7 +28,7 @@
 [![ADO.NET Badge](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
 [![ASP.NET Core Badge](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![Entity Framework Badge](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
-[![SQL Server Badge](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![SqlServer Connections Badge](https://img.shields.io/badge/-SqlServer%20Connections-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white)](#)
 
 - BACK-END:
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
