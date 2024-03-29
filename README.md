@@ -43,6 +43,8 @@
 - DEVELOPMENT:
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/)
+[![GitHub Bash Badge](https://img.shields.io/badge/-GitHub_Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)](https://gnu-bash)
+[![NGrok Badge](https://img.shields.io/badge/-NGrok-1F1E37?style=flat-square&logo=NGrok&logoColor=white)](https://ngrok.com/)
 [![Slack Badge](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/)
 [![Trello Badge](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/)
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
@@ -50,11 +52,12 @@
 [![Visual Studio Badge](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Chrome DevTools Badge](https://img.shields.io/badge/-Chrome%20DevTools-333333?style=flat-square&logo=Google%20Chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-F24E1E?style=flat-square&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 
 - SOFT SKILLS:
-[![Critical Thinking Badge](https://img.shields.io/badge/-Critical%20Thinking-FF5733?style=flat-square)](#)
-[![Troubleshooting Badge](https://img.shields.io/badge/-Troubleshooting-FF5733?style=flat-square)](#)
-[![Client Facing Badge](https://img.shields.io/badge/-Client%20Facing-FF5733?style=flat-square)](#)
-[![Agile Methodologies Badge](https://img.shields.io/badge/-Agile%20Methodologies-FF5733?style=flat-square)](#)
-[![Communication Badge](https://img.shields.io/badge/-Communication-FF5733?style=flat-square)](#)
-[![Project Management Badge](https://img.shields.io/badge/-Project%20Management-FF5733?style=flat-square)](#)
+[![Critical Thinking Badge](https://img.shields.io/badge/-Critical%20Thinking-FF5733?style=flat-square&logoColor=white)](#)
+[![Troubleshooting Badge](https://img.shields.io/badge/-Troubleshooting-00BFFF?style=flat-square&logoColor=white)](#)
+[![Client Facing Badge](https://img.shields.io/badge/-Client%20Facing-FFD700?style=flat-square&logoColor=white)](#)
+[![Agile Methodologies Badge](https://img.shields.io/badge/-Agile%20Methodologies-32CD32?style=flat-square&logoColor=white)](#)
+[![Communication Badge](https://img.shields.io/badge/-Communication-800080?style=flat-square&logoColor=white)](#)
+[![Project Management Badge](https://img.shields.io/badge/-Project%20Management-FFA500?style=flat-square&logoColor=white)](#)
