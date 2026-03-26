@@ -110,4 +110,21 @@ In this project, the list names come from the schema definitions like RhythmOfBu
 
 So in your scenario, two separately packaged versions with different web part GUIDs would still target the same lists if they are deployed to the same site and keep the same schema/list titles.
 
+does it change the permissions?
 
+
+Yes, but only when the list is newly created by this provisioning flow.
+
+The permission logic is in ElementProvisioner.ts, where _configureList(...) calls _configurePermissions(...). That configuration includes breaking inheritance and assigning roles, shown in ElementProvisioner.ts.
+
+The important limitation is earlier in the same file:
+
+ElementProvisioner.ts uses web.lists.ensure(...)
+ElementProvisioner.ts only calls _configureList(...) if listEnsureResult.created is true
+So:
+
+if the list does not exist and this code creates it, yes, it applies the permissions defined in the schema
+if the list already exists, this normal setup path does not reapply or change permissions
+Example: the events list defines its intended permissions in EventsList.ts, but those would only be enforced during creation unless some other upgrade/admin path explicitly runs permission configuration later.
+
+So the practical answer is: it can change permissions, but not on an already existing list during normal setup.
