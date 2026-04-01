@@ -18,3 +18,37 @@ Try the demo and learn more here:
 
 ---
 https://aidemos.atmeta.com/tribev2/
+---
+
+private async _buildRefinerValueOptions() {
+        const { [EventsService]: { refinersAsync } } = this.props.services;
+
+        await refinersAsync.promise;
+
+        const refiners = [...refinersAsync.data];
+        refiners.sort(Refiner.OrderAscComparer);
+
+        const refinerValueToDropdownOption = (value: RefinerValue) => {
+            const { key, displayName: text } = value;
+            return { key, text, data: value } as IDropdownOption;
+        };
+
+        const refinerValueOptionsByRefiner = new Map<Refiner, IDropdownOption[]>();
+        for (const refiner of refiners) {
+            const { required, allowMultiselect, blankValue } = refiner;
+            const options: IDropdownOption[] = [];
+            const panelRefinerValues = refiner.values
+                .filter(Entity.NotDeletedFilter)
+                .filter((value: RefinerValue) => (value as any).__external !== true);
+
+            if (!required && !allowMultiselect) {
+                options.push(refinerValueToDropdownOption(blankValue));
+            }
+
+            options.push(...panelRefinerValues.map(refinerValueToDropdownOption));
+
+            refinerValueOptionsByRefiner.set(refiner, options);
+        }
+
+        this.setState({ refinerValueOptionsByRefiner, refiners });
+    }
