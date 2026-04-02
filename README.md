@@ -1,3 +1,9 @@
+the GitHub of the dev who rewrote the code in rust/python https://github.com/ultraworkers/claw-code
+
+---
+nice overview site that breaks down the code https://ccunpacked.dev/#agent-loop
+
+---
 TRIBE v2 scans how the brain responds to anything we see or hear. movies, music, speech.
 
 Today we're introducing TRIBE v2 (Trimodal Brain Encoder), a foundation model trained to predict how the human brain responds to almost any sight or sound.
