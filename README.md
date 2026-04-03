@@ -50,3 +50,7 @@ private async _buildRefinerValueOptions() {
 
         this.setState({ refinerValueOptionsByRefiner, refiners });
     }
+
+    ----
+
+    https://github.com/Yng808/sp-dev-fx-webparts/commit/48e9b69de
