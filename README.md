@@ -7,3 +7,751 @@ least-to-most: a prompt engineering technique that starts with simple prompts an
 tree-of-thought prompting (ToT): a prompt engineering technique used to encourage LLMs to explore different possibilities and consider multiple reasoning paths before generating a response 
 self-consistency: a prompt engineering technique that asks a model the same prompt multiple times and takes the most consistent result as the final answer. 
 generated knowledge prompting: a prompt engineering technique that involves a two-step process to help LLMs understand and respond to requests more effectively. The first step involves prompting the LLM itself to generate potentially useful information related to the main prompt or question. Once the LLM generates this initial knowledge, it is then used to inform and guide the LLM in responding to the main prompt. 
+--------------
+
+While Hungarian notation insists that the name of a variable starts with a prefix indicating its type, like intYear for an integer variable, this is not a universal rule.
+
+A constant is a value in a program that cannot change. It is not necessarily a parameter that is passed to or received by a function or subprogram..
+
+A reference parameter is passed as an address to the original argument. This allows the function or subprogram to change the value stored in the original variable that was passed as an argument.
+
+The declarative programming paradigm is a model in which the results are described, but the steps to accomplish the results are not stated. There are two basic models within this paradigm, functional and logic. Scheme is an example of a declarative language. SCHEME
+
+The SDLC model has seven structured steps: 
+# understand the problem, 
+# plan the logic, 
+# code the program, 
+# use software (a compiler or an interpreter) to translate the program into machine language, 
+# test the program, 
+# put the program into production, and 
+# maintain the program.
+
+Looking at the smallest value and putting it in the first spot is the first step in selection sort, which is not a searching algorithm.
+
+It is not true that the binary search algorithm can run on sorted or unsorted data. This is a property of the sequential search algorithm.
+
+In partition memory management, is it not true that processes and memory are both divided into separate, fixed-size pieces. Rather, in partition memory management, memory is divided into segments, each of which can hold a different process
+
+the first fit method does not work well with dynamic partitions. You might be thinking about the worst fit method.
+
+Partition memory management is a method that divides memory into segments or partitions, each of which can hold a different process. The first fit method allocates a program to the first partition big enough to hold it, whereas the best fit method allocates the program to the smallest partition big enough to hold it. Both of these methods work best with fixed partitions.
+
+There are several operations that are common to most file systems. They include the ability to create and delete a file, open and close a file, read from and write to a file, append data to the end of a file, truncate a file, reposition the file pointer, and to either rename or copy a file.
+
+Shortest-seek-time-first is the name of an algorithm for disk scheduling, not a file access technique
+
+n sequential file access, it is not true that files are conceptually divided into numbered logical records. Rather, in sequential file access, a file is seen as a linear structure that processes data in order. In other words, read and write operations move the file pointer according to the amount of data that is read or written.
+
+SCAN is the name of an algorithm for disk scheduling, not a file access technique.
+
+A network protocol is a set of agreed-upon rules that govern how data is transmitted between devices. Several high-level protocols include Simple Mail Transfer Protocol (SMTP), File Transfer Protocol (FTP), Hypertext Transfer Protocol (HTTP), and Telnet.
+
+The computer name comes before the first dot in the full hostname. The computer name for this computer is jenkins
+
+----------
+
+# Programming Exam Study Guide
+
+## 1. Which type of variable represents a whole number in computer programming?
+**Answer:** Integer
+
+## 2. What describes a named storage location that can hold values that can change?
+**Answer:** Variable
+
+## 3. What is one standard rule for a variable name?
+**Answer:** The name should have an appropriate meaning.
+
+## 4. Which coding construct allows a choice between performing an action and skipping it?
+**Answer:** Selection
+
+## 5. What is the value of the expression `a + (b / c) * d - e` if `a = 19`, `b = 6`, `c = 2`, `d = 20`, and `e = 14`?
+**Answer:** 65
+
+## 6. What is a list?
+**Answer:** A varying-length, ordered collection of homogeneous items that allows for easy access, insertion, and removal.
+
+## 7. How are items added to and removed from a stack?
+**Answer:** The first item to be added becomes the first item removed.
+
+## 8. Which data structure is best for a customer collection where customers can be easily accessed, deleted, or added?
+**Answer:** List
+
+## 9. What describes a reference parameter?
+**Answer:** Passes the address, rather than the content, of the argument to the function.
+
+## 10. Which variable name represents an argument?
+**Answer:** num_d
+
+## 11. What does object-oriented programming do?
+**Answer:** Organizes a program into smaller components that bundle together fields and methods.
+
+## 12. Which programming paradigm is a subset of the declarative paradigm?
+**Answer:** Logic
+
+## 13. Which SDLC step is part of the process?
+**Answer:** Maintain the program.
+
+## 14. In SDLC, which step involves choosing a programming language and typing the code?
+**Answer:** Code the program.
+
+## 15. In the computer problem-solving process, which phase defines the problem?
+**Answer:** Analysis and specification.
+
+## 16. Which phase translates a planned sequence of steps into a programming language?
+**Answer:** Implementation.
+
+## 17. After testing the program in SDLC, what comes next?
+**Answer:** Put the program into production.
+
+## 18. After analysis and specification, what is the next phase?
+**Answer:** Algorithm development.
+
+## 19. Which commitment is part of the IEEE Code of Ethics?
+**Answer:** Hold paramount the safety, health, and welfare of the public.
+
+## 20. What is one key aspect of the ACM Code of Ethics?
+**Answer:** Contribute to society and human well-being.
+
+## 21. What must a company commit to under the ACM Code of Ethics?
+**Answer:** Access computing and communication resources only when compelled by the public good.
+
+## 22. What is an ethical violation according to both ACM and IEEE?
+**Answer:** An executive eliminates all professional development opportunities for employees.
+
+## 23. Which license allows free non-commercial use with attribution?
+**Answer:** Creative Commons (CC) license.
+
+## 24. Which situation is cyberbullying?
+**Answer:** A teenager repeatedly and anonymously threatens and spreads rumors about a classmate on social media.
+
+## 25. What is one characteristic of binary search?
+**Answer:** It will never look at every value.
+
+## 26. How does insertion sort operate?
+**Answer:** It builds the final sorted list one item at a time, placing each new item into its correct position.
+
+## 27. Which algorithm swaps adjacent values that are out of order?
+**Answer:** Bubble sort.
+
+## 28. What algorithm starts at the first entry and checks one at a time?
+**Answer:** Linear.
+
+## 29. Which programming structure stops a repeating process when a condition becomes true?
+**Answer:** Event-controlled loop.
+
+## 30. Which pseudocode converts an integer to a floating-point number?
+**Answer:** `myFloat x = a / 1.0`
+
+## 31. What is the value of `19 // 2`?
+**Answer:** 9
+
+## 32. Which pseudocode gives the same result as `int(e / c)`?
+**Answer:** `e // c`
+
+## 33. What is the result of the IF statement?
+**Answer:** Prints "Here" if `myNum > 0`; otherwise prints "There".
+
+## 34. What does the IF statement do?
+**Answer:** Prints "There" if `myNum ≤ 0`; otherwise prints "Here".
+
+## 35. What does the loop do?
+**Answer:** The user inputs 15 values, and the product of those values is printed.
+
+## 36. What does the loop print?
+**Answer:** 25 stars.
+
+## 37. What allows multiple users to interact with a computer simultaneously?
+**Answer:** Timesharing.
+
+## 38. What occurs in single contiguous memory management?
+**Answer:** A process is loaded into one designated memory block that follows the operating system.
+
+## 39. What is a benefit of paged memory management?
+**Answer:** A process no longer needs to be stored in a single memory block.
+
+## 40. What is a characteristic of dynamic partition memory management?
+**Answer:** The operating system's partition table changes as programs load and finish their execution.
+
+## 41. Which process state refers to a process being created?
+**Answer:** New
+
+## 42. Which CPU scheduling method lets a process finish before another starts?
+**Answer:** Nonpreemptive.
+
+## 43. Which operation is common to most file systems?
+**Answer:** Delete.
+
+## 44. What is a characteristic of sequential file access?
+**Answer:** The file is seen as a linear structure with no random access.
+
+## 45. What is a complete path from the root directory?
+**Answer:** Absolute path.
+
+## 46. What is a path starting from the current working directory?
+**Answer:** Relative path.
+
+## 47. What are all file systems responsible for?
+**Answer:** Organizing the storage of data on memory storage devices.
+
+## 48. Which file extension is commonly used for program source files?
+**Answer:** `.py`
+
+## 49. What is found in every computer system?
+**Answer:** Program counter.
+
+## 50. Which is a major component of the von Neumann architecture?
+**Answer:** Memory unit.
+
+## 51. What is the purpose of the arithmetic/logic unit (ALU)?
+**Answer:** It adds, subtracts, multiplies, and divides numerical data.
+
+## 52. Which component is inside the CPU?
+**Answer:** Control unit.
+
+## 53. What is a function of the control unit?
+**Answer:** Fetching an instruction.
+
+## 54. How is a bus topology set up?
+**Answer:** All nodes are connected to a single cable through which data is transmitted.
+
+## 55. Which network covers a large geographic area?
+**Answer:** Wide-area network (WAN).
+
+## 56. Which is a high-level network application protocol?
+**Answer:** Telnet.
+
+## 57. Which hardware is used primarily for networking?
+**Answer:** Repeater.
+
+## 58. Which computer is used for bulk data processing and large-scale transactions?
+**Answer:** Mainframe.
+
+## 59. What is an IoT device?
+**Answer:** A computer that enables smart functionality in everyday objects such as thermostats, lights, and appliances.
+
+## 60. Which type of computer is typically the most expensive?
+**Answer:** Server.
+ 
+
+----------
+
+**Which operator has the highest precedence?**
+**Correct Answer:**
+Multiplication (`×`)
+
+
+**Which value is a floating-point number?**
+**Correct Answer:**
+3.14
+
+
+**What is a linked list?**
+**Correct Answer:**
+A collection of elements, each containing a reference to the next element.
+
+
+**Which operation is used to add an element to the top of a stack?**
+**Correct Answer:**
+Push
+
+# Question 8
+
+**Which scenario is a stack most suitable for?**
+
+**Correct Answer:**
+Storing undo operations in a text editor.
+
+# Lesson Summary
+
+* A **linked list** is a collection of nodes where each node contains data and a reference to the next node.
+* A **stack** follows the **Last-In, First-Out (LIFO)** principle, where the most recently added item is removed first.
+* A **queue** follows the **First-In, First-Out (FIFO)** principle, where the first item added is the first one removed.
+* A **subprogram** is a sequence of instructions designed to perform a specific task within a program.
+* Functions in pseudocode are commonly called using the syntax `FunctionName(parameter1, parameter2)`.
+* **Subprograms** improve code organization, readability, maintenance, and allow code reuse.
+* The **Push** operation adds an element to the top of a stack, while **Pop** removes the top element.
+* **Stacks** are ideal for undo functionality because the last action performed is the first action that needs to be reversed.
+
+
+**What is encapsulation in OOP?**
+
+**Correct Answer:**
+The practice of keeping data and methods that manipulate the data in a single unit.
+
+
+**What is polymorphism in OOP?**
+
+**Correct Answer:**
+The ability of different objects to respond to the same method in different ways.
+
+**Which principle of OOP is demonstrated by restricting access to certain parts of an object?**
+
+**Correct Answer:**
+Encapsulation
+
+# Question 10
+
+**What does the term "abstraction" refer to in OOP?**
+
+**Correct Answer:**
+The practice of hiding the complex implementation details and showing only the necessary features.
+
+* **Object-Oriented Programming (OOP)** organizes code into reusable **objects**, making programs easier to maintain, reuse, and expand.
+* A **class** is a blueprint that defines the attributes and behaviors used to create **objects**, which are instances of that class.
+* **Encapsulation** bundles data and the methods that operate on it into a single unit while restricting direct access to an object's internal state.
+* **Inheritance** allows new classes to derive properties and methods from existing classes, promoting code reuse and creating an inheritance hierarchy.
+* **Polymorphism** enables different objects to respond to the same method in different ways, allowing more flexible and extensible code.
+* The **`new`** keyword is commonly used to create a new instance (object) of a class in many programming languages.
+* An **inheritance hierarchy** organizes related classes into a tree structure based on parent-child inheritance relationships.
+* An **object** is an instance of a class that contains **attributes (data)** and **methods (behavior)**.
+* **Abstraction** hides unnecessary implementation details and exposes only the essential features needed to interact with an object.
+* The four core principles of OOP are **Encapsulation, Inheritance, Polymorphism, and Abstraction**, which together promote modular, reusable, and maintainable software design.
+```
+  
+
+
+**What are the four steps of George Pólya's problem-solving method?**
+
+**Correct Answer:**
+Understanding the problem, devising a plan, executing the plan, reviewing the solution.
+
+**Which step involves coming up with possible strategies to solve the problem?**
+
+**Correct Answer:**
+Devising a plan.
+
+
+# Question 5
+
+**What is the relationship between a parameter and an argument?**
+
+**Correct Answer:**
+A parameter is a temporary variable in a function that receives the actual value of an argument.
+
+**Which programming language is considered to be a declarative language?**
+
+**Correct Answer:**
+Lisp
+
+
+* **Declarative programming** focuses on describing the desired result rather than the steps required to achieve it.
+* **Lisp** is a classic example of a **declarative programming language**, particularly within the functional programming paradigm.
+
+
+* The **Software Development Lifecycle (SDLC)** provides a structured process for developing software: **Understand the problem → Plan the logic → Code the program → Translate the code → Test the program → Put the program into production → Maintain the program.**
+
+
+
+
+**Which search algorithm would you use on an unsorted list?**
+
+**Correct Answer:**
+Sequential (linear) search
+
+# Question 7
+
+**Which sorting algorithm repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order?**
+
+**Correct Answer:**
+Bubble
+
+# Question 8
+
+**Which statement describes linear search?**
+
+**Correct Answer:**
+It checks each element one by one.
+
+# Question 9
+
+**Which statement is true about binary search?**
+
+**Correct Answer:**
+It requires the list to be sorted.
+
+
+* An **array** stores multiple elements of the **same data type** in **contiguous memory locations**, allowing efficient access by index.
+* A **record** is a composite data structure that stores **multiple values of different data types** within a single unit.
+* Both **arrays** and **records** can store multiple values, but arrays contain elements of the same type, while records can contain different types.
+* **Sequential (linear) search** examines each element one at a time and works on both **sorted and unsorted** lists.
+* **Binary search** repeatedly divides the search range in half, making it much faster for large datasets, but it **requires the data to be sorted**.
+* **Bubble sort** repeatedly compares adjacent elements and swaps them until the list is sorted.
+* **Selection sort** repeatedly finds the **smallest element** in the unsorted portion of the list and moves it to the beginning.
+* Choosing the appropriate **data structure** and **searching or sorting algorithm** depends on the type of data being stored and whether the data is already sorted.
+
+
+**Which flowchart symbol is used to indicate the start or end of a process flow?**
+
+**Correct Answer:**
+Oval
+
+# Question 2
+
+**Which flowchart symbol is used to represent a decision or conditional branch?**
+
+**Correct Answer:**
+Diamond
+
+# Question 3
+
+**Which flowchart symbol is used to represent input or output operations?**
+
+**Correct Answer:**
+Parallelogram
+
+
+**Which pseudocode operation represents a type conversion from a floating-point number to an integer?**
+
+**Correct Answer:**
+`int(num)`
+
+
+
+**Which keyword is typically used to represent the end of a selection structure in pseudocode?**
+
+**Correct Answer:**
+`End if`
+ 
+
+
+**What is the main goal of CPU scheduling in an operating system?**
+
+**Correct Answer:**
+Determining the order in which the CPU executes processes.
+
+# Question 5
+
+**Which technique does an operating system use to extend physical memory by using disk space?**
+
+**Correct Answer:**
+Virtual memory
+
+
+**Which CPU scheduling algorithm assigns a fixed time slice to each process in the queue?**
+
+**Correct Answer:**
+Round-Robin (RR)
+
+
+
+# Question 10
+
+**Which statement describes paging in memory management?**
+
+**Correct Answer:**
+Allocating fixed-sized blocks of memory.
+
+* An **operating system (OS)** manages system performance by efficiently allocating and coordinating **CPU, memory, storage, and other hardware resources**.
+* **Memory management** allocates, tracks, and frees system memory so multiple programs can run efficiently without interfering with one another.
+* **Process management** is responsible for creating, executing, scheduling, and terminating processes throughout their lifecycle.
+* **CPU scheduling** determines the order in which processes receive CPU time to maximize efficiency and responsiveness.
+* **Virtual memory** extends physical RAM by using disk space, allowing the system to run programs that require more memory than is physically available.
+* A **process** is a program that is currently being executed by the operating system.
+* **Shortest Job Next (SJN)** schedules the process with the smallest execution time first, reducing average waiting time.
+* A process enters the **Terminated** state after it has finished executing.
+* **Round-Robin (RR)** scheduling gives each process a fixed **time slice (time quantum)**, ensuring fair CPU sharing among processes.
+* **Paging** divides memory into **fixed-size pages and frames**, enabling efficient memory allocation and supporting virtual memory.
+
+
+**Which disk scheduling algorithm selects the request closest to the current head position?**
+
+**Correct Answer:**
+Shortest Seek Time First (SSTF)
+
+# Question 8
+
+**What is the main disadvantage of the First-Come, First-Served (FCFS) disk scheduling algorithm?**
+
+**Correct Answer:**
+High seek time.
+
+
+
+# Question 9
+
+**Which disk scheduling algorithm minimizes the total seek time by scanning in both directions across the disk?**
+
+**Correct Answer:**
+Elevator (SCAN)
+
+
+**Which method is a nonpreemptive approach to CPU scheduling?**
+
+**Correct Answer:**
+First-Come, First-Served (FCFS)
+
+# Question 4
+
+**What is one operation common to most file systems?**
+
+**Correct Answer:**
+Create
+
+# Question 5
+
+**What is the name of a disk scheduling technique?**
+
+**Correct Answer:**
+First-Come, First-Served (FCFS)
+
+
+Clock speed measures how many cycles per second the CPU can perform.
+Bus width refers to the number of bits processed at one time.
+RAM is volatile memory
+ROM is nonvolatile memory
+
+Clock speed measures how many cycles per second the CPU can perform.
+Bus width refers to the number of bits processed at one time.
+RAM is volatile memory
+ROM is nonvolatile memory
+
+
+# Question 1
+
+**What is the primary function of the CPU in a computer?**
+
+**Correct Answer:**
+Perform calculations and execute instructions.
+
+# Question 2
+
+**Which component is considered volatile memory?**
+
+**Correct Answer:**
+RAM
+
+# Question 3
+
+**Which storage device typically offers the fastest data access speed?**
+
+**Correct Answer:**
+Solid State Drive (SSD)
+
+# Question 4
+
+**Which component is directly responsible for executing the instructions of a computer program?**
+
+**Correct Answer:**
+CPU
+
+# Question 5
+
+**Which memory component is an example of nonvolatile memory?**
+
+**Correct Answer:**
+ROM
+
+# Question 6
+
+**Which type of memory is used to temporarily store data that the CPU needs while performing tasks?**
+
+**Correct Answer:**
+RAM
+
+# Question 7
+
+**Which term refers to the number of bits a computer can process at one time?**
+
+**Correct Answer:**
+Bus width
+
+# Question 8
+
+**What is the primary function of the ALU in a CPU?**
+
+**Correct Answer:**
+Performing arithmetic and logical operations.
+
+# Question 9
+
+**What is the main function of the control unit within the CPU?**
+
+**Correct Answer:**
+Manage and coordinate the activities of the computer.
+
+# Question 10
+
+**Which type of storage device typically offers the largest capacity?**
+
+**Correct Answer:**
+HDD
+
+# Lesson Summary
+
+* The **Central Processing Unit (CPU)** is the "brain" of the computer, responsible for executing instructions, performing calculations, and controlling system operations.
+* **RAM (Random Access Memory)** is **volatile memory**, meaning it temporarily stores data and loses its contents when power is turned off.
+* A **Solid State Drive (SSD)** provides faster data access than a traditional **Hard Disk Drive (HDD)** because it has no moving mechanical parts.
+* **ROM (Read-Only Memory)** is **nonvolatile memory**, retaining its contents even when the computer is powered off.
+* The CPU uses **RAM** as temporary working memory to quickly access the data and instructions needed to execute programs.
+* **Bus width** refers to the number of bits the processor can transfer or process simultaneously, affecting overall system performance.
+* The **Arithmetic Logic Unit (ALU)** performs arithmetic calculations (such as addition and subtraction) and logical operations (such as comparisons).
+* The **Control Unit (CU)** manages and coordinates the execution of instructions by directing data flow between the CPU, memory, and input/output devices.
+* **Hard Disk Drives (HDDs)** typically offer the **largest storage capacities** among common consumer storage devices, while SSDs prioritize speed.
+* Together, the CPU, RAM, ROM, storage devices, ALU, Control Unit, and system buses form the core hardware components that enable a computer to process, store, and manage data efficiently.
+
+
+The network layer is responsible for routing and forwarding packets, not managing connections between applications.
+Mesh topology connects each device to multiple other devices directly, not to a central hub.
+Bus topology connects all devices along a single cable, not to a central hub.
+Star topology connects all devices to a central hub.
+
+# Question 1
+
+**What is the primary function of a router in a network?**
+
+**Correct Answer:**
+Direct data traffic between different networks.
+
+
+
+**What is an open system?**
+
+**Correct Answer:**
+A system that uses standardized protocols for interoperability.
+
+
+**Correct Answer:**
+TCP
+
+# Question 7
+
+**Which type of network topology connects all devices to a central hub?**
+
+**Correct Answer:**
+Star topology
+
+# Question 8
+
+**What does the term "bandwidth" refer to in networking?**
+
+**Correct Answer:**
+The maximum rate of data transfer across a network path.
+
+# Question 9
+
+**Which layer of the OSI model is responsible for establishing, managing, and terminating connections between applications?**
+
+**Correct Answer:**
+The Session layer.
+
+# Question 3
+
+**What is a recent hardware trend in personal computing?**
+
+**Correct Answer:**
+Increasing use of multicore processors.
+
+# Question 4
+
+**Which statement describes the Internet of Things (IoT)?**
+
+**Correct Answer:**
+A system of interconnected devices that can communicate and exchange data.
+
+# Question 5
+
+**Which type of computer do large organizations typically use for critical applications and bulk data processing?**
+
+**Correct Answer:**
+Mainframe
+
+
+Having all nodes directly connected to all other nodes is not a commonly used topology for networks.
+
+A star topology, not a ring topology, is set up so that all nodes are connected to a central node through which messages are sent.
+
+A bus topology, not a ring topology, is set up so that all nodes are connected to a single cable through which data is transmitted.
+
+f a local area network (LAN) uses a ring topology, then all nodes are connected to exactly two other nodes in a circular data path.
+
+# Question 1
+
+**Which component is considered a major part of the von Neumann architecture?**
+
+**Correct Answer:**
+Arithmetic/Logic Unit (ALU)
+
+# Question 2
+
+**What is true about Read-Only Memory (ROM)?**
+
+**Correct Answer:**
+It is used to store instructions that the computer needs to start up.
+
+# Question 3
+
+**How is a ring topology set up in a Local Area Network (LAN)?**
+
+**Correct Answer:**
+All nodes are connected to exactly two other nodes in a circular data path.
+
+# Question 4
+
+**The location of a computer is given by either `falcon.csc.computersoft.org` or `205.39.155.18`. Which part of this information is known as the hostname?**
+
+**Correct Answer:**
+`falcon.csc.computersoft.org`
+
+# Question 5
+
+**What is the name for a computer placed directly inside another electronic device designed for a specific purpose?**
+
+**Correct Answer:**
+Embedded computer
+
+# Lesson Summary
+
+* The **von Neumann architecture** consists of five major components: the **Memory Unit**, **Control Unit**, **Arithmetic/Logic Unit (ALU)**, **Input Unit**, and **Output Unit**.
+* The **Arithmetic/Logic Unit (ALU)** performs arithmetic calculations and logical operations as part of the CPU.
+* **Read-Only Memory (ROM)** is **nonvolatile memory** that permanently stores startup instructions (firmware), allowing the computer to boot even after power has been turned off.
+* A **ring topology** connects each device to exactly **two neighboring devices**, forming a circular path through which data travels.
+* A **hostname** is the complete name that uniquely identifies a computer on a network or the Internet (e.g., `falcon.csc.computersoft.org`).
+* An **embedded computer** is a specialized computer built into another electronic device to perform a dedicated function, such as controlling appliances, vehicles, or medical equipment.
+
+
+
+While Hungarian notation insists that the name of a variable starts with a prefix indicating its type, like intYear for an integer variable, this is not a universal rule.
+
+A constant is a value in a program that cannot change. It is not necessarily a parameter that is passed to or received by a function or subprogram..
+
+A reference parameter is passed as an address to the original argument. This allows the function or subprogram to change the value stored in the original variable that was passed as an argument.
+
+The declarative programming paradigm is a model in which the results are described, but the steps to accomplish the results are not stated. There are two basic models within this paradigm, functional and logic. Scheme is an example of a declarative language. SCHEME
+
+The SDLC model has seven structured steps: 
+# understand the problem, 
+# plan the logic, 
+# code the program, 
+# use software (a compiler or an interpreter) to translate the program into machine language, 
+# test the program, 
+# put the program into production, and 
+# maintain the program.
+
+Looking at the smallest value and putting it in the first spot is the first step in selection sort, which is not a searching algorithm.
+
+It is not true that the binary search algorithm can run on sorted or unsorted data. This is a property of the sequential search algorithm.
+
+In partition memory management, is it not true that processes and memory are both divided into separate, fixed-size pieces. Rather, in partition memory management, memory is divided into segments, each of which can hold a different process
+
+the first fit method does not work well with dynamic partitions. You might be thinking about the worst fit method.
+
+Partition memory management is a method that divides memory into segments or partitions, each of which can hold a different process. The first fit method allocates a program to the first partition big enough to hold it, whereas the best fit method allocates the program to the smallest partition big enough to hold it. Both of these methods work best with fixed partitions.
+
+There are several operations that are common to most file systems. They include the ability to create and delete a file, open and close a file, read from and write to a file, append data to the end of a file, truncate a file, reposition the file pointer, and to either rename or copy a file.
+
+Shortest-seek-time-first is the name of an algorithm for disk scheduling, not a file access technique
+
+n sequential file access, it is not true that files are conceptually divided into numbered logical records. Rather, in sequential file access, a file is seen as a linear structure that processes data in order. In other words, read and write operations move the file pointer according to the amount of data that is read or written.
+
+SCAN is the name of an algorithm for disk scheduling, not a file access technique.
+
+A network protocol is a set of agreed-upon rules that govern how data is transmitted between devices. Several high-level protocols include Simple Mail Transfer Protocol (SMTP), File Transfer Protocol (FTP), Hypertext Transfer Protocol (HTTP), and Telnet.
+
+The computer name comes before the first dot in the full hostname. The computer name for this computer is jenkins
+
+
+# Order of phases 
+analysis and specification
+algorithm development
+implementation
+testing maintenance
